@@ -1,0 +1,18 @@
+Allows you to banish colony animals.
+
+Are you getting low on food, but are too attached to poor Fluffy to slaughter her? Send her away!
+
+[h1]Description[/h1]
+Adds the 'Banish' button from the Character card to the Inspect pane, exclusively for colony animals. All other functionality related to banishing non-human colony pawns was already built into the game, but only accessible from caravan menus.
+
+Savegame compatible. 
+
+Should not conflict with any mods, except possibly others that make edits to the Inspect pane.
+
+[h1]Dependencies[/h1]
+If RimHUD is installed, it must be loaded before this mod, otherwise the button added by this mod will not show up.
+
+[h1]Honourable Mentions[/h1]
+pardeike/Harmony - https://github.com/pardeike/Harmony/
+Orion of Orion's Hospitality (and other mods) - for including his well-documented source as learning material in his package.
+Mlie, for updating the mod to 1.1
